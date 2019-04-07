@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\project\project\project\bin\Debug\netstandard2.0\project.deps.json
+C:\Users\user\source\repos\project\project\project\bin\Debug\netstandard2.0\project.dll
+C:\Users\user\source\repos\project\project\project\bin\Debug\netstandard2.0\project.pdb
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\project.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\project.AssemblyInfo.cs
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\project.dll
+C:\Users\user\source\repos\project\project\project\obj\Debug\netstandard2.0\project.pdb
