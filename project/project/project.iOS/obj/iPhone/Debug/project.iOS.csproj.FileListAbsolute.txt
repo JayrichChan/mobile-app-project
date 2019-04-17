@@ -55,3 +55,4 @@ C:\Users\user\source\repos\project\project\project.iOS\obj\iPhone\Debug\XamlC.st
 C:\Users\user\source\repos\project\project\project.iOS\obj\iPhone\Debug\project.iOS.csproj.CopyComplete
 C:\Users\user\source\repos\project\project\project.iOS\obj\iPhone\Debug\project.iOS.exe
 C:\Users\user\source\repos\project\project\project.iOS\obj\iPhone\Debug\project.iOS.pdb
+C:\Users\user\source\repos\project\project\project.iOS\bin\iPhone\Debug\project.dll.mdb

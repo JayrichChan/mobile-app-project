@@ -1,3 +1,4 @@
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\e_sqlite3.dll
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\App.xbf
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\MainPage.xbf
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\project.UWP.xr.xml
@@ -8,7 +9,14 @@ C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\AppxManifes
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\Core\AppxManifest.xml
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\Core\project.UWP.exe
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\project.UWP.build.appxrecipe
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\Newtonsoft.Json.pdb
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
 C:\Users\user\source\repos\project\project\project.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll

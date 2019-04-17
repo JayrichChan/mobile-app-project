@@ -13,7 +13,6 @@ namespace project
         {
             InitializeComponent();
 
-            slider.Value = 0.5;
         }
 
     }
